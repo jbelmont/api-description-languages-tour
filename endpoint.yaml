@@ -1,0 +1,5 @@
+schemes:
+  - https
+server_and_port: workshop.api
+path: /api-workshop 
+ 

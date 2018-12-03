@@ -1,0 +1,10 @@
+consumes:
+  $ref: 'commons.yaml#/consumes'
+produces:
+  $ref: 'commons.yaml#/produces'
+
+securityDefinitions:
+  $ref: 'commons.yaml#/securityDefinitions'
+
+security:
+  $ref: 'commons.yaml#/security'

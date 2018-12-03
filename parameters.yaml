@@ -1,0 +1,6 @@
+username:
+  name: username
+  in: path
+  required: true
+  description: The person's username
+  type: string
